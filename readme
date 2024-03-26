@@ -1,0 +1,5 @@
+/*day 3 task
+*compare two jason have the same properties without order
+  let obj1= {name:"person 1", age:5};  let obj2= {name:{age:5,name:"person 1";}
+* XMLHTTPREQUEST display all the country flags in the console
+* print all the countries names,region,subregionand population.
